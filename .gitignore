@@ -1,4 +1,5 @@
 !.gitignore
+.env
 .cache
 dist
 node_modules
